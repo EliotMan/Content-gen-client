@@ -1,4 +1,5 @@
 import './App.css';
+import Input from './component/ui/Input';
 
 function App() {
   return (
